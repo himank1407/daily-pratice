@@ -1,0 +1,1 @@
+Console.WriteLine("i dont know what i am trying to learn todya but . i think i will learn something");
