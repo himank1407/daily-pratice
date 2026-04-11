@@ -6,4 +6,5 @@ float h=12345.09876f;
 Console.WriteLine($"{h:0}");
 Console.WriteLine($"{h:0.00}");
 Console.WriteLine($"{h:0.#}");
-Console.writeLine(" i am soo fucking tired today .i cant even open my eyes");
+Console.WriteLine(" i am soo fucking tired today .i cant even open my eyes");
+Console.WriteLine("whats up with tokyo");
