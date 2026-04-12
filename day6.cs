@@ -8,3 +8,4 @@ Console.WriteLine($"{h:0.00}");
 Console.WriteLine($"{h:0.#}");
 Console.WriteLine(" i am soo fucking tired today .i cant even open my eyes");
 Console.WriteLine("whats up with tokyo");
+Console.WriteLine("i fucking didnt did anything today. just did some drawing on tab and  watched the series while doing it ");
